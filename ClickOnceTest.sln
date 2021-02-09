@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickOnceWpf", "ClickOnceWpf\ClickOnceWpf.csproj", "{950CC4BE-D2F3-4AEE-B726-DE86D7250A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClickOnceHelper", "ClickOnceHelper\ClickOnceHelper.csproj", "{72C961D1-5D89-4F1D-A57E-B31B453E39AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{950CC4BE-D2F3-4AEE-B726-DE86D7250A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950CC4BE-D2F3-4AEE-B726-DE86D7250A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950CC4BE-D2F3-4AEE-B726-DE86D7250A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950CC4BE-D2F3-4AEE-B726-DE86D7250A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C961D1-5D89-4F1D-A57E-B31B453E39AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C961D1-5D89-4F1D-A57E-B31B453E39AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72C961D1-5D89-4F1D-A57E-B31B453E39AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C961D1-5D89-4F1D-A57E-B31B453E39AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC3B07C-96E3-44B6-8CF3-3F34DEF6838E}
+	EndGlobalSection
+EndGlobal
